@@ -1,0 +1,7 @@
+﻿  05_09_21_Practica5_ifelse.cpp
+C:\Users\juanp\source\repos\05_09_21_Practica5_ifelse\05_09_21_Practica5_ifelse.cpp(15,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\juanp\source\repos\05_09_21_Practica5_ifelse\05_09_21_Practica5_ifelse.cpp(14,9): warning C4101: 'edad_in': variable local sin referencia
+C:\Users\juanp\source\repos\05_09_21_Practica5_ifelse\05_09_21_Practica5_ifelse.cpp(18,12): warning C4101: 'estaturaexacta_in': variable local sin referencia
+C:\Users\juanp\source\repos\05_09_21_Practica5_ifelse\05_09_21_Practica5_ifelse.cpp(16,11): warning C4101: 'estatura_in': variable local sin referencia
+C:\Users\juanp\source\repos\05_09_21_Practica5_ifelse\05_09_21_Practica5_ifelse.cpp(20,10): warning C4101: 'sexohombrein': variable local sin referencia
+  05_09_21_Practica5_ifelse.vcxproj -> C:\Users\juanp\source\repos\05_09_21_Practica5_ifelse\Debug\05_09_21_Practica5_ifelse.exe

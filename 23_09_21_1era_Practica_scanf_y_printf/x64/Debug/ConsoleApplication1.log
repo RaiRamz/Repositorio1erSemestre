@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(14,19): warning C4101: 'mi_primer_long_long_int': variable local sin referencia
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(11,12): warning C4101: 'mi_primer_doble': variable local sin referencia
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(12,17): warning C4101: 'mi_primer_doble_largo': variable local sin referencia
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(9,9): warning C4101: 'mi_primer_entero': variable local sin referencia
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(13,10): warning C4101: 'mi_primer_caracter': variable local sin referencia
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(10,11): warning C4101: 'mi_primer_flotante': variable local sin referencia
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(8,10): warning C4101: 'mi_primer_booleano': variable local sin referencia
+  ConsoleApplication1.vcxproj -> C:\Users\juanp\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,4 @@
+﻿  31_10_21_practica10.cpp
+C:\Users\juanp\source\repos\31_10_21_practica10\31_10_21_practica10.cpp(17,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\juanp\source\repos\31_10_21_practica10\31_10_21_practica10.cpp(18,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  31_10_21_practica10.vcxproj -> C:\Users\juanp\source\repos\31_10_21_practica10\Debug\31_10_21_practica10.exe

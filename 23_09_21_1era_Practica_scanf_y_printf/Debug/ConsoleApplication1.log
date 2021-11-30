@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\juanp\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(7,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
